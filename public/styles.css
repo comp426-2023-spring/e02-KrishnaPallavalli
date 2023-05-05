@@ -12,12 +12,11 @@ p.results {
     border-width: 0.25cm;
     border-color: blue;
 }
-
 img.shot {
     width: 300px;
 }
 
-button {
+.button {
     background-color: #4CAF50; /* Green */
     border: none;
     color: white;
